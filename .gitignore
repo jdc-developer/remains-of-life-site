@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/.firebase
+/dev/assets/css/style.css
+/dev/assets/css/lib.css
+/dev/assets/js/script-min.js
+/dev/assets/js/lib.js
