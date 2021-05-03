@@ -1,0 +1,29 @@
+body {
+    color: $white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+.container {
+    max-width: 80%;
+    padding: 10px;
+    margin: auto;
+}
+
+a {
+    color: $white;
+    text-decoration: none;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+
+    &:hover {
+        color: $color-accent;
+    }
+}

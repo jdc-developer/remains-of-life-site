@@ -1,0 +1,17 @@
+nav {
+    background-color: $primary-color;
+    position: fixed;
+    width: 100%;
+
+    .container {
+        max-width: 90%;
+    }
+
+    ul {
+        li {
+            list-style: none;
+            display: inline;
+            margin-right: 15px;
+        }
+    }
+}

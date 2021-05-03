@@ -6,7 +6,7 @@ var minify = require('gulp-minify');
 var uglifycss = require('gulp-uglifycss');
 
 gulp.task('watch', function() {
-  gulp.watch('./dev/assets/css/**/*', gulp.series('sass'));
+  gulp.watch('./dev/assets/css/**/*.scss', gulp.series('sass'));
   gulp.watch('./dev/assets/js/**/*', gulp.series('js'));
   gulp.watch('./dev/assets/img/**/*', gulp.series('img'));
   gulp.watch('./dev/*.html',  gulp.series('html'));
@@ -32,11 +32,7 @@ gulp.task('sass', () => {
 });
 
 gulp.task('libjs', () => {
-    return gulp.src(['node_modules/jquery/dist/jquery.min.js',
-      'node_modules/swiper/js/swiper.min.js',
-      'node_modules/aos/dist/aos.js',
-      'node_modules/jquery-validation/dist/jquery.validate.min.js',
-      'node_modules/jquery-mask-plugin/dist/jquery.mask.min.js',])
+    return gulp.src(['node_modules/jquery/dist/jquery.min.js'])
       .pipe(concat('lib.js'))
       .pipe(gulp.dest('./dist/assets/js'))
       .pipe(gulp.dest('./dev/assets/js'));
@@ -45,8 +41,6 @@ gulp.task('libjs', () => {
 
 gulp.task('libcss', () => {
     return gulp.src(['node_modules/flexboxgrid/dist/flexboxgrid.min.css',
-      'node_modules/swiper/css/swiper.min.css',
-      'node_modules/aos/dist/aos.css',
       'node_modules/animate.css/animate.min.css'])
       .pipe(concat('lib.css'))
       .pipe(uglifycss())
