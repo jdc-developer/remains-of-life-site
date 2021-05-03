@@ -1,0 +1,32 @@
+{
+  "name": "remains-of-life-site",
+  "version": "1.0.0",
+  "description": "Website of the band Remains of Life",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdc-developer/remains-of-life-site.git"
+  },
+  "keywords": [
+    "band",
+    "metal",
+    "remains",
+    "of",
+    "life",
+    "death",
+    "metal",
+    "doom",
+    "metal",
+    "jorge",
+    "silva"
+  ],
+  "author": "Jorge Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdc-developer/remains-of-life-site/issues"
+  },
+  "homepage": "https://github.com/jdc-developer/remains-of-life-site#readme"
+}
