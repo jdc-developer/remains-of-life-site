@@ -2,9 +2,11 @@ nav {
     background-color: $primary-color;
     position: fixed;
     width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(60,60,60,.8);
 
     .container {
         max-width: 90%;
+        padding: 10px;
     }
 
     ul {

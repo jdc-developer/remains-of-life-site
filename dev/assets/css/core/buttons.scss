@@ -8,6 +8,30 @@
     background-size: cover;
 }
 
+.btn {
+    border: none;
+    padding: 5px 18px;
+    font-size: 23px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Magnificent', sans-serif;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    box-shadow: 0 4px 8px 0 rgba(60,60,60,.8);
+}
+
+.btn-primary {
+    background-color: $white;
+    color: $primary-color;
+
+    &:hover {
+        background-color: $color-accent;
+        color: $white;
+    }
+}
+
 .btn-portuguese {
     background-image: url('../img/brazil.jpg');
 }
