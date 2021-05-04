@@ -19,8 +19,8 @@ gulp.task('html', () => {
 });
 
 gulp.task('fonts', () => {
-    return gulp.src('dev/assets/css/fonts/**')
-      .pipe(gulp.dest('./dist/assets/css/fonts'))
+    return gulp.src('dev/assets/fonts/**')
+      .pipe(gulp.dest('./dist/assets/fonts'))
 });
 
 gulp.task('sass', () => {

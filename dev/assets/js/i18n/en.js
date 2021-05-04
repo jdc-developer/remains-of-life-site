@@ -10,6 +10,7 @@ $(function() {
 		'development-credits': 'Website developed by Jorge Silva.',
 		'rights-message': 'All rights reserved.',
 		'buy': 'Buy Now',
-		'news': 'News'
+		'news': 'News',
+		'channels': 'Channels'
     }, 'en');
 });
