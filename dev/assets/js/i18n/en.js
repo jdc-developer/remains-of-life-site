@@ -4,6 +4,7 @@ $(function() {
         'biography': 'Biography',
 		'photos': 'Photos',
 		'videos': 'Videos',
-		'contact': 'Contact'
+		'contact': 'Contact',
+		'band-description': 'A one-man band from Brazil'
     }, 'en');
 });

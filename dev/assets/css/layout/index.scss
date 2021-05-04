@@ -1,0 +1,19 @@
+header {
+    background-image: url('../img/main-bg.jpg');
+    
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -40px;
+    width: 100%;
+    height: 700px;
+
+    .header-cover {
+        background-color: rgba(0, 0, 0, 0.5);
+        height: 100%;
+    }
+
+    .band-description {
+        font-size: 40px;
+    }
+}
