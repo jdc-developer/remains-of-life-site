@@ -8,7 +8,7 @@ var uglifycss = require('gulp-uglifycss');
 gulp.task('watch', function() {
   gulp.watch(['./dev/assets/css/**/*', '!dev/assets/css/style.css', '!dev/assets/css/lib.css'], gulp.series('sass'));
   gulp.watch(['./dev/assets/js/**/*', '!dev/assets/js/script-min.js', '!dev/assets/js/lib.js'], gulp.series('js'));
-  gulp.watch('./dev/assets/img/**/*', gulp.series('img'));
+  gulp.watch('./dev/assets/images/**/*', gulp.series('img'));
   gulp.watch('./dev/*.html',  gulp.series('html'));
   gulp.watch('./dev/assets/css/fonts/**/*',  gulp.series('fonts'));
 });
@@ -58,9 +58,9 @@ gulp.task('libcss', () => {
 });
 
 gulp.task('img', () => {
-    return gulp.src(['dev/assets/img/**/*'])
+    return gulp.src(['dev/assets/images/**/*'])
       .pipe(imagemin())
-      .pipe(gulp.dest('./dist/assets/img'));
+      .pipe(gulp.dest('./dist/assets/images'));
 });
 
 gulp.task('js', () => {
