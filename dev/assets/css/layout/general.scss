@@ -6,6 +6,7 @@ body {
 * {
     margin: 0;
     padding: 0;
+    max-width: 100%;
     outline: none;
 }
 
@@ -23,6 +24,16 @@ a {
     &:hover {
         color: $color-accent;
     }
+}
+
+ul {
+    li {
+        list-style: none;
+    }
+}
+
+.row {
+    margin: 0;
 }
 
 .title {
@@ -52,5 +63,15 @@ a {
         .container {
             background-color: $primary-light;
         }
+    }
+}
+
+@media #{$general-phone} {
+    .title {
+        font-size: 25px;
+    }
+    
+    .subtitle {
+        font-size: 20px;
     }
 }

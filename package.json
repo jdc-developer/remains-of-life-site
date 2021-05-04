@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/jdc-developer/remains-of-life-site#readme",
   "devDependencies": {
+    "@wikimedia/jquery.i18n": "^1.0.7",
     "animate.css": "^4.1.1",
     "flexboxgrid": "^6.3.1",
     "gulp": "^4.0.2",
@@ -41,7 +42,6 @@
     "jquery": "^3.6.0"
   },
   "dependencies": {
-    "@wikimedia/jquery.i18n": "^1.0.7",
     "lightbox2": "^2.11.3"
   }
 }

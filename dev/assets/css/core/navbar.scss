@@ -2,6 +2,7 @@ nav {
     background-color: $primary-color;
     position: fixed;
     width: 100%;
+    z-index: 2;
     box-shadow: 0 4px 8px 0 rgba(60,60,60,.8);
 
     .container {
@@ -11,7 +12,6 @@ nav {
 
     ul {
         li {
-            list-style: none;
             display: inline;
             margin-right: 15px;
         }
@@ -21,5 +21,57 @@ nav {
         position: absolute;
         right: 7px;
         top: 7px;
+    }
+
+    .mobile-menu-icon {
+        display: none;
+    }
+}
+
+.mobile-menu {
+    display: none;
+}
+
+@media #{$general-phone} {
+    nav {
+        ul {
+            display: none;
+        }
+
+        .mobile-menu-icon {
+            display: block;
+            background-image: url('../images/mobile-menu-icon.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 35px;
+            height: 35px;
+        }
+    }
+
+    .mobile-menu {
+        background-color: $primary-color;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        height: 100%;
+        width: 180px;
+
+        ul {
+            width: 100%;
+
+            li:hover {
+                @include fade-in(.5s);
+                background-color: $color-accent;
+
+                a {
+                    color: $white;
+                }
+            }
+
+            a {
+                margin-left: 20%;
+            }
+        }
     }
 }
