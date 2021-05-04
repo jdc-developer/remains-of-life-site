@@ -18,10 +18,7 @@ body {
 a {
     color: $white;
     text-decoration: none;
-    -moz-transition: all .2s ease-in;
-    -o-transition: all .2s ease-in;
-    -webkit-transition: all .2s ease-in;
-    transition: all .2s ease-in;
+    @include fade-in(.2s);
 
     &:hover {
         color: $color-accent;

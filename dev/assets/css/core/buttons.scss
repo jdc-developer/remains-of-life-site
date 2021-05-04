@@ -6,6 +6,11 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    @include fade-in(.5s);
+
+    &:hover {
+        border: 1px solid $white;
+    }
 }
 
 .btn {
@@ -15,10 +20,7 @@
     border-radius: 5px;
     cursor: pointer;
     font-family: 'Magnificent', sans-serif;
-    -moz-transition: all .2s ease-in;
-    -o-transition: all .2s ease-in;
-    -webkit-transition: all .2s ease-in;
-    transition: all .2s ease-in;
+    @include fade-in(.2s);
     box-shadow: 0 4px 8px 0 rgba(60,60,60,.8);
 }
 
