@@ -41,6 +41,7 @@
     "jquery": "^3.6.0"
   },
   "dependencies": {
-    "@wikimedia/jquery.i18n": "^1.0.7"
+    "@wikimedia/jquery.i18n": "^1.0.7",
+    "lightbox2": "^2.11.3"
   }
 }

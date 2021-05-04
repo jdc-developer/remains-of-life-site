@@ -1,0 +1,12 @@
+.photos {
+    .img-album {
+        max-width: 250px;
+        max-height: 250px;
+        border: 5px solid $white;
+        @include fade-in(.5s);
+
+        &:hover {
+            border-color: $light-gray;
+        }
+    }
+}

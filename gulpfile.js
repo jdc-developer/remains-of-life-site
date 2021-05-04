@@ -39,7 +39,8 @@ gulp.task('libjs', () => {
       'node_modules/@wikimedia/jquery.i18n/src/jquery.i18n.parser.js',
       'node_modules/@wikimedia/jquery.i18n/src/jquery.i18n.emitter.js',
       'node_modules/@wikimedia/jquery.i18n/src/jquery.i18n.emitter.bidi.js',
-      'node_modules/@wikimedia/jquery.i18n/src/jquery.i18n.language.js'])
+      'node_modules/@wikimedia/jquery.i18n/src/jquery.i18n.language.js',
+      'node_modules/lightbox2/dist/js/lightbox.min.js'])
       .pipe(concat('lib.js'))
       .pipe(gulp.dest('./dist/assets/js'))
       .pipe(gulp.dest('./dev/assets/js'));
@@ -48,7 +49,8 @@ gulp.task('libjs', () => {
 
 gulp.task('libcss', () => {
     return gulp.src(['node_modules/flexboxgrid/dist/flexboxgrid.min.css',
-      'node_modules/animate.css/animate.min.css'])
+      'node_modules/animate.css/animate.min.css',
+      'node_modules/lightbox2/dist/css/lightbox.min.css'])
       .pipe(concat('lib.css'))
       .pipe(uglifycss())
       .pipe(gulp.dest('./dist/assets/css'))
