@@ -39,5 +39,8 @@
     "gulp-sass": "^4.1.0",
     "gulp-uglifycss": "^1.1.0",
     "jquery": "^3.6.0"
+  },
+  "dependencies": {
+    "@wikimedia/jquery.i18n": "^1.0.7"
   }
 }
