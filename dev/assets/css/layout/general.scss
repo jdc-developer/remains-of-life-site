@@ -42,9 +42,15 @@ a {
 }
 
 .content {
-    background-color: $primary-color;
+    background-image: url('../img/pilgrimage-cover.png');
+    background-size: contain;
+    background-position: center;
 
-    .container {
-        background-color: $primary-light;
+    .content-box {
+        background-color: rgba(0, 0, 0, 0.8);
+
+        .container {
+            background-color: $primary-light;
+        }
     }
 }
