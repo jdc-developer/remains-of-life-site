@@ -7,10 +7,5 @@ $white: #FFFFFF;
 $light-gray: #808080;
 
 $general-phone: "only screen and (max-width : 768px)";
-$small-phone: "only screen and (max-width : 320px)";
-$big-phone: "only screen and (min-width : 400px) and (max-width : 500px)";
 $tablet: "only screen and (min-width: 500px) and (max-width : 768px)";
-$tablet-mids: "only screen and (min-width: 500px) and (max-width : 1023px)";
-$mids: "only screen and (max-width : 1023px)";
-$only-mids: "only screen and (min-width: 769px) and (max-width : 1023px)";
-$phone-only: "only screen and (max-width : 767px)";
+$desktop: "only screen and (min-width: 1024px) and (max-width : 1150px)";
