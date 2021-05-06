@@ -3,7 +3,7 @@
         max-width: 180px;
         max-height: 250px;
         border: 5px solid $white;
-        @include fade-in(.5s);
+        @include fade-in(.4s);
 
         &:hover {
             border-color: $light-gray;
