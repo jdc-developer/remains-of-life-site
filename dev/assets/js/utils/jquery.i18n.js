@@ -1,12 +1,14 @@
 $(function() {
-    var userLang = navigator.language || navigator.userLanguage;
+    var portugueseLocales = ['pt-BR', 'pt-PT', 'pt-AO', 'pt-MZ', 'pt-GW', 'pt-GQ', 'pt-ST',
+        'pt-TL', 'pt-CV', 'pt'];
     var langSelectedKey = 'langSelected';
     var locale = 'en';
     var langSelected = localStorage.getItem(langSelectedKey);
+    var userLang = navigator.language || navigator.userLanguage;
 
     if (langSelected) {
         locale = langSelected;
-     } else if (userLang === 'pt-BR') {
+     } else if (portugueseLocales.includes(userLang)) {
         locale = 'pt-BR';
     }
     
