@@ -5,8 +5,8 @@ $(function() {
 		'photos': 'Photos',
 		'videos': 'Videos',
 		'contact': 'Contact',
-		'band-description': 'A journey through the darkness',
-		'pilgrimage-text': '(new album 2021)',
+		'band-description': 'A one-man band from Brazil',
+		'pilgrimage-text': '(to be released soon, 2021)',
 		'development-credits': 'Website developed by Jorge Silva.',
 		'rights-message': 'All rights reserved.',
 		'buy': 'Buy Now',
@@ -19,6 +19,10 @@ $(function() {
 		'biography-content-5': 'The project’s concept is to relate feelings and situations under metaphoric optics without losing their essence and without these being necessarily felt and lived by the author, but also comprehended and expanded by him; all of this through the musical art. For such a reason, the project has been entitled Remains of Life, for what remains of a life but memories and feelings?',
 		'contact-content': 'If you wish to contact the band, please send an email to the address',
 		'not-found': 'Not found',
-		'not-found-content': 'The page you were looking for does not exist.'
+		'not-found-content': 'The page you were looking for does not exist.',
+		'new-single': 'New Single Out',
+		'new-single-content': 'New Single Out',
+		'new-single-content-1': 'Remains of Life announces its brand new single, Shattered Mirror. This song was the first composition of the project founder, Jorge Silva. Its original arrangements, created long before the band\'s conception, took short passages through the first bands which Silva featured in. Being his first work, this one received a special care from its author, being invariably chosen to feature as the unique single from Remains of Life\'s debut album.',
+		'new-single-content-2': 'Shattered Mirror is a slow and exceptionally melancolic song, even for the high dramatic standards of the album. You may check it on the main digital platforms and on the band\'s YouTube channel, where we uploaded an amazing lytic video produced by Wolff Videomaker. We wish to thank Alef Marra for the cover art, Marcel Briani for the edition and Victor Zavinsck for the logo drawing. You can watch the lyric video below:'
     }, 'en');
 });

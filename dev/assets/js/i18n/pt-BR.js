@@ -5,8 +5,8 @@ $(function() {
 		'photos': 'Fotos',
 		'videos': 'Vídeos',
 		'contact': 'Contato',
-		'band-description': 'Uma jornada pelas trevas',
-		'pilgrimage-text': '(novo álbum 2021)',
+		'band-description': 'Uma banda-de-um-homem do Brasil',
+		'pilgrimage-text': '(lançamento em breve, 2021)',
 		'development-credits': 'Site desenvolvido por Jorge Silva.',
 		'rights-message': 'Todos os direitos reservados.',
 		'buy': 'Comprar',
@@ -19,6 +19,9 @@ $(function() {
 		'biography-content-5': 'O conceito do projeto é narrar sentimentos e situações sob óticas metafóricas sem perder sua essência e sem que estas tenham sido necessariamente sentidas e vividas pelo autor, mas também compreendidas e expandidas por ele; tudo isso através da arte musical. Por tal razão, o projeto foi intitulado Remains of Life (Restos da Vida), pois o que resta de uma vida além de lembranças e sentimentos?',
 		'contact-content': 'Se deseja contatar a banda, por favor envie um email para o endereço',
 		'not-found': 'Não encontrado',
-		'not-found-content': 'A página que você estava procurando não existe.'
+		'not-found-content': 'A página que você estava procurando não existe.',
+		'new-single': 'Lançamento do Novo Single',
+		'new-single-content-1': 'A Remains of Life anuncia o seu primeiro single, Shattered Mirror. Esta música foi a primeira composição do fundador do projeto, Jorge Silva. Seus arranjos originais, criados muito antes da concepção da banda, marcaram pequenas passagens pelas primeiras bandas das quais Silva participou. Sendo sua primeira obra, esta recebeu um carinho especial de seu autor, sendo invariavelmente escolhida para figurar como single único do álbum de estreia da Remains of Life.',
+		'new-single-content-2': 'Shattered Mirror é uma canção lenta e excepcionalmente melancólica, até mesmo para os padrões altamente dramáticos do álbum. Você pode conferi-la nas principais plataformas digitais e no canal do YouTube da banda, onde disponibilizamos um incrível lyric video produzido pelo Wolff Videomaker. Devemos nossos agradecimentos à Alef Marra pela arte da capa, Marcel Briani pela arte finalista e Victor Zavinsck pelo desenho do logo. Assista ao lyric video abaixo:'
     }, 'pt-BR');
 });

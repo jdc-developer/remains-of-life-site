@@ -19,6 +19,14 @@ header {
     }
 }
 
+.article-content {
+    img {
+        float: left;
+        position: relative;
+        right: 15px;
+    }
+}
+
 @media #{$general-phone} {
     header {
         height: 500px;
