@@ -32,3 +32,14 @@ header {
         height: 500px;
     }
 }
+
+@media #{$phone-only} {
+    .article-content {
+        text-align: center;
+
+        img {
+            float: unset;
+            right: 0;
+        }
+    }
+}
