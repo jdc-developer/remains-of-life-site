@@ -22,6 +22,7 @@ $(function() {
 		'not-found-content': 'The page you were looking for does not exist.',
 		'new-single': 'First Single Out',
 		'new-single-content-1': 'Remains of Life announces its brand new single, Shattered Mirror. This song was the first composition of the project founder, Jorge Silva. Its original arrangements, created long before the band\'s conception, took short passages through the first bands which Silva featured in. Being his first work, this one received a special care from its author, being invariably chosen to feature as the unique single from Remains of Life\'s debut album.',
-		'new-single-content-2': 'Shattered Mirror is a slow and exceptionally melancolic song, even for the high dramatic standards of the album. Its pacing goes through melodic phrases and intense and explosive guitar arrangements. You may check it on the main digital platforms and on the band\'s YouTube channel, where we uploaded an amazing lyric video produced by Wolff Videomaker. We wish to thank Alef Marra for the cover art, Marcel Briani for the editing and Victor Zavinsck for the logo drawing. You can watch the lyric video below:'
+		'new-single-content-2': 'Shattered Mirror is a slow and exceptionally melancholic song, even for the high dramatic standards of the album. Its pacing goes through melodic phrases and intense and explosive guitar arrangements. You may listen to it on the main digital platforms and on the band\'s YouTube channel, where we uploaded an amazing lyric video produced by Wolff Videomaker. We wish to thank Alef Marra for the cover art, Marcel Briani for the editing and Victor Zavinsck for the logo drawing. You can watch the teaser of the lyric video below:',
+		'shattered-teaser': 'Shattered Mirror Teaser'
     }, 'en');
 });
