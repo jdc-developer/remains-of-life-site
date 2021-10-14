@@ -8,6 +8,7 @@ body {
     padding: 0;
     max-width: 100%;
     outline: none;
+    overflow-x: hidden;
 }
 
 .container {
@@ -71,7 +72,12 @@ ul {
     background-image: url('../images/shattered-mirror.png');
     background-size: contain;
     background-position: center;
-    overflow-x: hidden;
+
+    article {
+        * {
+            overflow-x: initial;
+        }
+    }
 
     .content-box {
         background-color: rgba(0, 0, 0, 0.8);
