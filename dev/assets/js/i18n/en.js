@@ -6,7 +6,7 @@ $(function() {
 		'videos': 'Videos',
 		'contact': 'Contact',
 		'band-description': 'Progressive Death Metal from Brazil',
-		'pilgrimage-text': '(to be released soon, 2021)',
+		'pilgrimage-text': '(to be released soon by Cold Art Industry, 2021)',
 		'development-credits': 'Website developed by Jorge Silva.',
 		'rights-message': 'All rights reserved.',
 		'buy': 'Buy Now',

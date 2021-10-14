@@ -6,7 +6,7 @@ $(function() {
 		'videos': 'Vídeos',
 		'contact': 'Contato',
 		'band-description': 'Progressive Death Metal do Brasil',
-		'pilgrimage-text': '(lançamento em breve, 2021)',
+		'pilgrimage-text': '(lançamento em breve pela Cold Art Industry, 2021)',
 		'development-credits': 'Site desenvolvido por Jorge Silva.',
 		'rights-message': 'Todos os direitos reservados.',
 		'buy': 'Comprar',
