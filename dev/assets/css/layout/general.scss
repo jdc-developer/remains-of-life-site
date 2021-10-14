@@ -17,6 +17,17 @@ body {
     margin: auto;
 }
 
+header {
+    background-image: url('../images/main-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-position-y: -40px;
+    width: 100%;
+    height: 700px;
+}
+
 a {
     color: $white;
     text-decoration: none;
@@ -72,6 +83,10 @@ ul {
 }
 
 @media #{$general-phone} {
+    header {
+        background-position-y: 0;
+    }
+
     .title {
         font-size: 25px;
     }
