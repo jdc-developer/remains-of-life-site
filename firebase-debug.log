@@ -1,0 +1,20 @@
+[debug] [2021-10-16T00:00:29.155Z] ----------------------------------------------------------------------
+[debug] [2021-10-16T00:00:29.157Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Diamond\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2021-10-16T00:00:29.157Z] CLI Version:   7.16.1
+[debug] [2021-10-16T00:00:29.158Z] Platform:      win32
+[debug] [2021-10-16T00:00:29.158Z] Node Version:  v14.18.0
+[debug] [2021-10-16T00:00:29.159Z] Time:          Fri Oct 15 2021 21:00:29 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2021-10-16T00:00:29.159Z] ----------------------------------------------------------------------
+[debug] [2021-10-16T00:00:29.159Z] 
+[debug] [2021-10-16T00:00:29.171Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-16T00:00:29.172Z] > authorizing via signed-in user
+[debug] [2021-10-16T00:00:29.172Z] [iam] checking project remains-of-life-site for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2021-10-16T00:00:29.175Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2021-10-16T00:00:29.176Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2021-10-16T00:00:29.343Z] <<< HTTP RESPONSE 200
+[debug] [2021-10-16T00:00:29.395Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/remains-of-life-site:testIamPermissions  
+
+[debug] [2021-10-16T00:00:30.328Z] <<< HTTP RESPONSE 200
+[debug] [2021-10-16T00:00:30.331Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/remains-of-life-site  
+ 
