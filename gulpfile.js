@@ -14,7 +14,7 @@ gulp.task('watch', function() {
 });
 
 gulp.task('html', () => {
-    return gulp.src(['dev/*.html', 'dev/sitemap.xml'])
+    return gulp.src(['dev/*.html', 'dev/sitemap.xml', 'dev/robots.txt'])
       .pipe(gulp.dest('./dist/'))
 });
 
