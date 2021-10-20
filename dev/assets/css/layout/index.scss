@@ -42,4 +42,14 @@
             right: 0;
         }
     }
+
+    .title-date {
+        display: initial;
+    
+        .date {
+            margin-top: 5px;
+            display: block;
+            text-align: center;
+        }
+    }
 }
