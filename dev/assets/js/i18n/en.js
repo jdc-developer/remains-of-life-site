@@ -9,7 +9,7 @@ $(function() {
 		'pilgrimage-text': '(to be released soon by Cold Art Industry, 2021)',
 		'development-credits': 'Website developed by Jorge Silva.',
 		'rights-message': 'All rights reserved.',
-		'buy': 'Buy Now',
+		'buy': 'Pre-save',
 		'news': 'News',
 		'channels': 'Channels',
 		'biography-content-1': 'Remains of Life is a one-man band from São Paulo – SP, Brazil founded by the musician and producer Jorge Silva. After small amateur projects between friends, amongst these, the so called Illuriah and Tribal Blood, Silva decided to create his own musical project in order to achieve his artistic ambitions.',

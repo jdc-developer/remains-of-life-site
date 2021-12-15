@@ -9,7 +9,7 @@ $(function() {
 		'pilgrimage-text': '(lançamento em breve pela Cold Art Industry, 2021)',
 		'development-credits': 'Site desenvolvido por Jorge Silva.',
 		'rights-message': 'Todos os direitos reservados.',
-		'buy': 'Comprar',
+		'buy': 'Pre-save',
 		'news': 'Notícias',
 		'channels': 'Canais',
 		'biography-content-1': 'Remains of Life é uma banda-de-um-homem de São Paulo – SP, Brasil fundada pelo músico e produtor Jorge Silva em 2019. Após pequenos projetos amadores entre amigos, dentre estes, os chamados Illuriah e Tribal Blood, Silva resolveu criar seu próprio projeto musical a fim de realizar suas ambições artísticas.',
