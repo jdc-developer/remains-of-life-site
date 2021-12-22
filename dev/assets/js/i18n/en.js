@@ -6,10 +6,10 @@ $(function() {
 		'videos': 'Videos',
 		'contact': 'Contact',
 		'band-description': 'Progressive Death Metal from Brazil',
-		'pilgrimage-text': '(to be released soon by Cold Art Industry, 2021)',
+		'pilgrimage-text': '(new album 2021)',
 		'development-credits': 'Website developed by Jorge Silva.',
 		'rights-message': 'All rights reserved.',
-		'buy': 'Pre-save',
+		'buy': 'Buy Now',
 		'news': 'News',
 		'channels': 'Channels',
 		'biography-content-1': 'Remains of Life is a one-man band from São Paulo – SP, Brazil founded by the musician and producer Jorge Silva. After small amateur projects between friends, amongst these, the so called Illuriah and Tribal Blood, Silva decided to create his own musical project in order to achieve his artistic ambitions.',
@@ -25,6 +25,9 @@ $(function() {
 		'new-single-content-2': 'Shattered Mirror is a slow and exceptionally melancholic song, even for the high dramatic standards of the upcoming album. Its pacing goes through melodic phrases and intense and explosive guitar arrangements. You may listen to it on the main digital platforms and in the band\'s YouTube channel, where we uploaded an amazing lyric video produced by Guilherme Wolff. We wish to thank Alef Marra for the cover art, Marcel Briani for the art editing and Victor Zavinsck for the logo drawing. You can watch the lyric video below:',
 		'shattered-teaser': 'Shattered Mirror Teaser',
 		'shattered-lyric': 'Shattered Mirror Lyric Video',
-		'photography-credit': 'Photography by Evelyn Sathy'
+		'photography-credit': 'Photography by Evelyn Sathy',
+		'new-album': 'Our first album, Pilgrimage is out!',
+		'new-album-content-1': 'Close to the end of the year, our debut album is finally released by Cold Art Industry. Composed by six tracks, this masterful progressive death metal piece gives birth to a solo project created by the musician and producer Jorge Silva. Varying from heavy, distorted and fast riffs, to slow-paced acoustic melodies, and even with the presence of female vocals in some songs, this album is a great mixture of what extreme metal and soft metal ballads have of best.',
+		'new-album-content-2': 'You can listen to it in the main digital platforms, and as well, buy one physical copy (Brazil only), or buy one digital copy (Bandcamp). The cover was painted by Ulisses Rodrigues and edited by Marcel Briani. We thank a lot everyone involved in the project!'
     }, 'en');
 });

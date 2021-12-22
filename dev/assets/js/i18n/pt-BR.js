@@ -6,10 +6,10 @@ $(function() {
 		'videos': 'Vídeos',
 		'contact': 'Contato',
 		'band-description': 'Progressive Death Metal do Brasil',
-		'pilgrimage-text': '(lançamento em breve pela Cold Art Industry, 2021)',
+		'pilgrimage-text': '(novo álbum 2021)',
 		'development-credits': 'Site desenvolvido por Jorge Silva.',
 		'rights-message': 'Todos os direitos reservados.',
-		'buy': 'Pre-save',
+		'buy': 'Comprar',
 		'news': 'Notícias',
 		'channels': 'Canais',
 		'biography-content-1': 'Remains of Life é uma banda-de-um-homem de São Paulo – SP, Brasil fundada pelo músico e produtor Jorge Silva em 2019. Após pequenos projetos amadores entre amigos, dentre estes, os chamados Illuriah e Tribal Blood, Silva resolveu criar seu próprio projeto musical a fim de realizar suas ambições artísticas.',
@@ -21,10 +21,13 @@ $(function() {
 		'not-found': 'Não encontrado',
 		'not-found-content': 'A página que você estava procurando não existe.',
 		'new-single': 'Lançamento do Primeiro Single',
-		'new-single-content-1': 'A Remains of Life anuncia o seu primeiro single, Shattered Mirror. Esta música foi a primeira composição do fundador do projeto, Jorge Silva. Seus arranjos originais, criados muito antes da concepção da banda, marcaram pequenas passagens pelas primeiras bandas das quais Silva participou. Como sua primeira obra, esta recebeu um carinho especial de seu autor, sendo invariavelmente escolhida para figurar como single único do álbum de estreia da Remains of Life.',
+		'new-single-content-1': 'O Remains of Life anuncia o seu primeiro single, Shattered Mirror. Esta música foi a primeira composição do fundador do projeto, Jorge Silva. Seus arranjos originais, criados muito antes da concepção da banda, marcaram pequenas passagens pelas primeiras bandas das quais Silva participou. Como sua primeira obra, esta recebeu um carinho especial de seu autor, sendo invariavelmente escolhida para figurar como single único do álbum de estreia da Remains of Life.',
 		'new-single-content-2': 'Shattered Mirror é uma canção lenta e excepcionalmente melancólica, até mesmo para os padrões altamente dramáticos do álbum. Seu andamento se dá através de frases melódicas e arranjos de guitarra intensos e explosivos. Você pode conferi-la nas principais plataformas digitais e no canal do YouTube da banda, onde disponibilizamos um incrível lyric video produzido pelo Guilherme Wolff. Devemos nossos agradecimentos à Alef Marra pela arte da capa, Marcel Briani pela arte finalista e Victor Zavinsck pelo desenho do logo. Assista ao lyric video abaixo:',
 		'shattered-teaser': 'Shattered Mirror Teaser',
 		'shattered-lyric': 'Shattered Mirror Lyric Video',
-		'photography-credit': 'Fotografia por Evelyn Sathy'
+		'photography-credit': 'Fotografia por Evelyn Sathy',
+		'new-album': 'Nosso primeiro álbum, Pilgrimage foi lançado!',
+		'new-album-content-1': 'Perto do fim do ano, nosso primeiro álbum finalmente é lançado pela Cold Art Industry. Composto por seis faixas, este petardo magistral do progressive death metal dá início a um projeto solo criado pelo músico e produtor Jorge Silva. Variando de riffs rápidos, distorcidos e pesados a melodias lentas e acústicas, e até mesmo com a presença de vocais femininos em algumas músicas, este álbum é uma grande mistura do que o metal extremo e as baladas suaves de metal têm de melhor.',
+		'new-album-content-2': 'Você pode ouvi-lo nas principais plataformas digitais, e também, comprar uma cópia física (apenas no Brasil), ou comprar uma cópia digital (Bandcamp). A capa foi pintada por Ulisses Rodrigues e editada por Marcel Briani. Agradecemos muito a todos os envolvidos no projeto!'
     }, 'pt-BR');
 });
