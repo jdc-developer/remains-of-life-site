@@ -28,6 +28,10 @@ $(function() {
 		'photography-credit': 'Fotografia por Evelyn Sathy',
 		'new-album': 'Nosso primeiro álbum, Pilgrimage é lançado!',
 		'new-album-content-1': 'Perto do fim do ano, nosso primeiro álbum finalmente é lançado pela Cold Art Industry. Composto por seis faixas, este petardo magistral do progressive death metal dá início a um projeto solo criado pelo músico e produtor Jorge Silva. Variando de riffs rápidos, distorcidos e pesados a melodias lentas e acústicas, e até mesmo com a presença de vocais femininos em algumas músicas, este álbum é uma grande mistura do que o metal extremo e as baladas suaves de metal têm de melhor.',
-		'new-album-content-2': 'Você pode ouvi-lo nas principais plataformas digitais, e também, comprar uma cópia física (apenas no Brasil), ou comprar uma cópia digital (Bandcamp). A capa foi pintada por Ulisses Rodrigues e editada por Marcel Briani. Agradecemos muito a todos os envolvidos no projeto!'
+		'new-album-content-2': 'Você pode ouvi-lo nas principais plataformas digitais, e também, comprar uma cópia física (apenas no Brasil) no ',
+		'new-album-content-3': ', ou comprar uma cópia digital no ',
+		'new-album-content-4': '. A capa foi pintada por Ulisses Rodrigues e editada por Marcel Briani. Agradecemos muito a todos os envolvidos no projeto!',
+		'cold-art-industry-website': 'site da Cold Art Industry',
+		'bandcamp': 'Bandcamp'
     }, 'pt-BR');
 });

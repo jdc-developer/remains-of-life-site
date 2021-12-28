@@ -28,6 +28,10 @@ $(function() {
 		'photography-credit': 'Photography by Evelyn Sathy',
 		'new-album': 'Our first album, Pilgrimage is out!',
 		'new-album-content-1': 'Close to the end of the year, our debut album is finally released by Cold Art Industry. Composed by six tracks, this masterful progressive death metal piece gives birth to a solo project created by the musician and producer Jorge Silva. Varying from heavy, distorted and fast riffs, to slow-paced acoustic melodies, and even with the presence of female vocals in some songs, this album is a great mixture of what extreme metal and soft metal ballads have of best.',
-		'new-album-content-2': 'You can listen to it in the main digital platforms, and as well, buy one physical copy (Brazil only), or buy one digital copy (Bandcamp). The cover was painted by Ulisses Rodrigues and edited by Marcel Briani. We thank a lot everyone involved in the project!'
+		'new-album-content-2': 'You can listen to it in the main digital platforms, and as well, buy one physical copy (Brazil only) at ',
+		'new-album-content-3': ', or buy one digital copy at ',
+		'new-album-content-4': '. The cover was painted by Ulisses Rodrigues and edited by Marcel Briani. We thank a lot everyone involved in the project!',
+		'cold-art-industry-website': 'Cold Art Industry website',
+		'bandcamp': 'Bandcamp'
     }, 'en');
 });
