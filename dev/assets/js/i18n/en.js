@@ -32,6 +32,7 @@ $(function() {
 		'new-album-content-3': ', or buy one digital copy at ',
 		'new-album-content-4': '. The cover was painted by Ulisses Rodrigues and edited by Marcel Briani. We thank a lot everyone involved in the project!',
 		'cold-art-industry-website': 'Cold Art Industry website',
-		'bandcamp': 'Bandcamp'
+		'bandcamp': 'Bandcamp',
+		'listen-spotify': 'Listen on Spotify'
     }, 'en');
 });

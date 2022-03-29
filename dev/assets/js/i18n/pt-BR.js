@@ -32,6 +32,7 @@ $(function() {
 		'new-album-content-3': ', ou comprar uma cópia digital no ',
 		'new-album-content-4': '. A capa foi pintada por Ulisses Rodrigues e editada por Marcel Briani. Agradecemos muito a todos os envolvidos no projeto!',
 		'cold-art-industry-website': 'site da Cold Art Industry',
-		'bandcamp': 'Bandcamp'
+		'bandcamp': 'Bandcamp',
+		'listen-spotify': 'Ouça no Spotify'
     }, 'pt-BR');
 });
